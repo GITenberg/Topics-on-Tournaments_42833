@@ -1,0 +1,27 @@
+_repo: Topics-on-Tournaments_42833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moon, John W.
+    alias: Moon, J. W. (John W.)
+    gutenberg_agent_id: '41879'
+    url: http://www.gutenberg.org/2009/agents/41879
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2013-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42833'
+  lccn: '68013611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Tournaments (Graph theory)'
+title: Topics on Tournaments
+url: http://www.gutenberg.org/ebooks/42833
